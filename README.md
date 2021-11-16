@@ -17,6 +17,7 @@ Now that you know about the usage of readme files and its extension, you can def
 
 
 - [GitHub Stats Card](https://github.com/anuraghazra/github-readme-stats): Is a nice way to show your progress in the platform, you are able to custumize the card to adapt better to your profile changing themes, colors and more. It is basicly a metric of which languages the readme's user has the most code on GitHub. 
+
  ![image](https://user-images.githubusercontent.com/86369677/142044557-a43880eb-305a-4f2f-a3df-68aee81d2e59.png)
  ![image](https://user-images.githubusercontent.com/86369677/142044598-387ace78-60c5-4df9-b4a6-2d85281853ea.png)
  
