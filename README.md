@@ -25,13 +25,9 @@ Now that you know about the usage of readme files and its extension, you can def
 
  ![image](https://user-images.githubusercontent.com/86369677/142045043-6441aba0-5636-4335-9a71-0d7c3cfae89b.png)
  
- - [Badges](https://dev.to/envoy_/150-badges-for-github-pnk): Now in terms of the technologies that you do deal with, feel free to search the badges that work as a banner of your expertise. 
+ - [Badges](https://dev.to/envoy_/150-badges-for-github-pnk): Now in terms of the technologies that you do deal with, feel free to search the badges that work as a banner of your expertise. You can add a badge to display you contact me bar as a LinkedIn badge.
  ![image](https://user-images.githubusercontent.com/86369677/142047028-048593a0-7026-4a0c-a8cb-e4a2fccadff0.png)
  ![image](https://user-images.githubusercontent.com/86369677/142047228-dd62201f-9868-4de8-9bbb-8ce69ef788de.png)
  ![image](https://user-images.githubusercontent.com/86369677/142047474-5854d542-21a7-479f-a0e0-dd67897a5a12.png)
 
-
-
-
-
-pro pessoal que vai criar o github e ajeitar o readme >>> pra arrumar a aparencia do github é basicamente editar o readme do teu perfil, tem esse video https://www.youtube.com/watch?v=TsaLQAetPLU que mostra de uma forma bem didática como fazer (olhem a descrição do video tbm), e tem esse link https://github.com/matiassingers/awesome-readme que tem várias ideias de como montar seus readme.
+All in all, GitHub profiles will always have their own way of expression and be as unic as the owner spent time on it. if you see something new which pleases the eyes feel free to look over the coding details and try it on your profile, search for your doubts and I'm sure you will end up feeling rewarding. :sunglasses:
