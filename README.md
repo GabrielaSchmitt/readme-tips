@@ -22,8 +22,7 @@ Now that you know about the usage of README files and its extension, you can def
 
 - [GITHUB STATS CARD](https://github.com/anuraghazra/github-readme-stats): Displays a card with some information of your interaction as a user of github. Is a nice way to show your progress in the platform, you are able to custumize the card and shape it to your profile changing themes, colors and more. My favorite is the one that is a metric of which languages the readme's user has the most code on GitHub. 
 
- ![image](https://user-images.githubusercontent.com/86369677/142044557-a43880eb-305a-4f2f-a3df-68aee81d2e59.png)
- ![image](https://user-images.githubusercontent.com/86369677/142044598-387ace78-60c5-4df9-b4a6-2d85281853ea.png)
+ ![image](https://user-images.githubusercontent.com/86369677/142044557-a43880eb-305a-4f2f-a3df-68aee81d2e59.png) ![image](https://user-images.githubusercontent.com/86369677/142044598-387ace78-60c5-4df9-b4a6-2d85281853ea.png)
  
 - [EMOJIS](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#github-custom-emoji): A sympathetic and useful approach is using icons and emojis. Many profiles uses it, and turns out to be very cute. 
 
