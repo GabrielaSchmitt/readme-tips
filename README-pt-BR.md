@@ -1,4 +1,4 @@
-﻿# readme-dicas
+# readme-dicas
 *Este artigo foi traduzido do [Inglês](README.md)*
 
 ### First things first let me introduce WHAT IS A README FILE. 
@@ -11,6 +11,7 @@ Esses arquivos têm a extensão md, que significa markdown. Arquivos markdown s�
 
 Se você não estiver familiarizado com o markdown, recomendo fortemente que você leia e consulte a documentação do GitHub ["Basic writing and formatting syntax"](https://docs.github.com/en/github/writing-on-github/getting- started-with-writing-and-formatting-on-github / basic-writing-and-formatting-syntax).
 <br>
+
 Agora que você sabe sobre o uso de arquivos README e sua extensão para poder escrevê-los, pode definir o README de seu perfil. Diferente de outras plataformas, o GitHub torna o gerenciamento de seu perfil totalmente "codificável" para que você possa moldá-lo da maneira que preferir, já que é voltado para os desenvolvedores. Ter um perfil bacana é muito interessante, dessa forma não só as pessoas terão acesso aos seus códigos, mas também poderão se conectar e realmente ver quem é o gênio por trás da tela. Além disso, hoje em dia tenho visto pessoas usando seu github como um portfólio e se for o seu caso, então é uma boa ideia ter uma abordagem harmoniosa com os usuários _ uns papo de UX,  né? _ EXATO ! Bem, sem mais delongas, nas próximas linhas darei alguns links e dicas para fazer um bom front-end para o seu perfil.
 
 </br>
