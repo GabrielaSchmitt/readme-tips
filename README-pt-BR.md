@@ -1,7 +1,7 @@
 # readme-dicas
 *Este artigo foi traduzido do [Inglês](README.md)*
 
-### Introduzindo O QUE É UM ARQUIVO README 
+### O QUE É UM ARQUIVO README 
 
 No GitHub é comum adicionar um arquivo README.md em cada repositório que você faz, é neste documento que você deve descrever cada parte do projeto. Você pode incluir uma breve descrição da finalidade do desenvolvimento, sobre a criação do projeto, como os usuários podem ter acesso ao uso mostrando como executar, traduções, descrever o que seu projeto facilita, fornecer exemplos de código.... Depende de você explicar o que você considera necessário, mas certifique-se de que o conteúdo seja claro e objetivo para quem quiser rodar seu código.
 
