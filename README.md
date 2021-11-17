@@ -7,7 +7,7 @@ On GitHub is common to add a README.md file into every repository you make, in t
 
 If you are a curious person and want to learn more about the README file here is a project very interesting to read -   ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme#readme)  -  _Stephen Whitmore_. 
 
-Those files have the extension md witch states for markdown. A markdown file is used for writing and it can support some html codes as branches of titles, divs and more. I suggest you to use the [Stackedit.io platform](https://stackedit.io/app#) to write your markdown files, it can be downloaded or used in your preferred browser online. 
+Those files have the extension md which stands for markdown. A markdown file is used for writing and it can support some html codes as branches of titles, divs and more. I suggest you to use the [Stackedit.io platform](https://stackedit.io/app#) to write your markdown files, it can be downloaded or used in your preferred browser online. 
 
 If you are not familiarized with markdown, I highly recommend you read and consult the GitHub documentation  ["Basic writing and formatting syntax"](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) . 
 <br>
