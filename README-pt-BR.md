@@ -34,6 +34,11 @@ Agora que você sabe sobre o uso de arquivos README e sua extensão para poder e
  ![image](https://user-images.githubusercontent.com/86369677/142047228-dd62201f-9868-4de8-9bbb-8ce69ef788de.png)
  ![image](https://user-images.githubusercontent.com/86369677/142047474-5854d542-21a7-479f-a0e0-dd67897a5a12.png)
  
+  - [README TYPING SVG](https://readme-typing-svg.herokuapp.com/demo/): Uma forma divertida de personalizar seu perfil é adicionar uma frase animada personalizada com uma mensagem de sua escolha, pode servir um título, uma mensagem de tchau no rodapé, um banner mostrando suas principais linguagens de desenvolvimento.
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFE620&center=true&vCenter=true&lines=Este+%C3%A9+um+exemplo!;Massa+n%C3%A9%3F!)](https://git.io/typing-svg)
+ 
+ 
  <br>
 
 Por fim, os perfis do GitHub sempre terão sua própria forma de expressão e serão tão únicos quanto o dono dedicou seu tempo a isto. Se você tem alguma ideia maluca, não se envergonhe, codifique-a! E se você encontrar um perfil com algo novo que agrade aos olhos, fique à vontade para olhar os detalhes do código e experimentar no seu perfil, busque sempre sanar suas dúvidas seja online ou contatando usuários e tenho certeza que você vai se sentir recompensado. :sunglasses:  
