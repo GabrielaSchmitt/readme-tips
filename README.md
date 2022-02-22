@@ -33,6 +33,10 @@ Now that you know about the usage of README files and its extension, you can def
  ![image](https://user-images.githubusercontent.com/86369677/142047228-dd62201f-9868-4de8-9bbb-8ce69ef788de.png)
  ![image](https://user-images.githubusercontent.com/86369677/142047474-5854d542-21a7-479f-a0e0-dd67897a5a12.png)
  
+ - [README TYPING SVG](https://readme-typing-svg.herokuapp.com/demo/): A fun way to custumize your profile is to add a kind of animation personalized with a message of your own, as an example it can be a title, a goodbye message, a banner showing your main languages as a dev. 
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFE620&center=true&vCenter=true&lines=Here's+an+example!;Fun+isn't+it%3F!)](https://git.io/typing-svg)
+  
  <br>
 
 
